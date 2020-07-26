@@ -8,4 +8,7 @@ A To-Do List to keep track of you todo's. Give it a try if you like:)
 <p>Or you can hide input box by clicking to plus icons.</p>
 <img src="/Pics/todo pic2.JPG" alt="todo list pic">
 <br>
-Hope you like it.
+Hope you like it. Here's the link if you wanna try.
+<a href="https://alkatrivedi.github.io/ToDo-List/">To-Do List</a>
+
+Thank you:)
